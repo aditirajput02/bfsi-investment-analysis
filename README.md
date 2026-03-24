@@ -26,17 +26,20 @@ sales pitches and lost revenue.
 ## Key Business Insights
 
 **Insight 1 — Product targeting**
-SIP is preferred by 28% of 18-35 customers vs only
-5% among 56+ customers. Sales teams should focus
+
+SIP is preferred by 28% of 18-35 aged customers vs only
+5% among 56+ aged customers. Sales teams should focus
 digital SIP onboarding on young earners via App
 and Online channels.
 
 **Insight 2 — High value cross-sell**
+
 Customers earning 12L+ invest 4x more in ULIPs
 than the dataset average. Trigger ULIP cross-sell
 campaigns for high-income FD holders.
 
 **Insight 3 — Senior segment gap**
+
 56+ customers hold 35% of all Fixed Deposits but
 have very low health insurance uptake (13%).
 Bundling health insurance into FD renewal
